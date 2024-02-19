@@ -1,0 +1,17 @@
+.nav {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 5px 5px 5px #000;
+  margin-bottom: 5px;
+}
+.n {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.i {
+  margin-right: 30px;
+}

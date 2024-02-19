@@ -1,0 +1,75 @@
+.details {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+img {
+  width: 20px;
+}
+p {
+  color: rgb(107, 97, 97);
+}
+.plus {
+  margin-left: -20px;
+}
+.details > :nth-child(2) {
+  margin-left: 12px;
+}
+.details > :nth-child(3) {
+  width: 60px;
+
+  margin: 10px;
+}
+.details > :nth-child(4) {
+  width: 150px;
+  color: rgb(19, 195, 226);
+  margin: 10px;
+  margin-left: 30px;
+}
+.details > :nth-child(5) {
+  width: 150px;
+
+  margin: 10px;
+  margin-left: 10px;
+}
+.details > :nth-child(6) {
+  width: 150px;
+
+  margin: 10px;
+  margin-left: 10px;
+}
+.details > :nth-child(7) {
+  width: 150px;
+
+  margin: 10px;
+  margin-left: 20px;
+}
+.details > :nth-child(8) {
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+}
+.details > :nth-child(9) {
+  width: 100px;
+  color: green;
+  text-align: center;
+  margin-left: 20px;
+  font-size: 12px;
+  border: 1px solid green;
+  margin: 10px;
+}
+.details > :nth-child(10) {
+  border: 1px solid grey;
+  padding: 2px;
+  margin-left: 20px;
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10px;
+  margin-left: 20px;
+}
+.details > :last-child {
+  width: 100px;
+  margin-left: 20px;
+}
